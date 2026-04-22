@@ -37,10 +37,6 @@ The dataset includes customer demographic and behavioral information such as:
 
 ---
 
-## 📷 Dashboard Preview
-![Bike Dashboard](dashboard.png)
-
----
 
 ## 📌 Notes
 For more details and additional visuals, please refer to the project files.
