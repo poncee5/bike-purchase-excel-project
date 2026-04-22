@@ -1,5 +1,10 @@
 # 🚴 Bike Purchase Analysis (Excel)
 
+## 📝 Description
+Excel-based data analysis project exploring customer purchasing behavior using a bike sales dataset. Includes data cleaning, PivotTable analysis, and an interactive dashboard to visualize key trends and insights.
+
+---
+
 ## 📊 Overview
 This project analyzes a bike sales dataset to understand customer purchasing behavior and identify key factors influencing bike purchases. The analysis was conducted using Microsoft Excel and presented through an interactive dashboard.
 
@@ -36,7 +41,6 @@ The dataset includes customer demographic and behavioral information such as:
 - Charts & Data Visualization  
 
 ---
-
 
 ## 📌 Notes
 For more details and additional visuals, please refer to the project files.
